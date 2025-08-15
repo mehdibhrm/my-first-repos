@@ -21,7 +21,7 @@ README.md
 ========================
 # QuickHash CLI
 
-A tiny Python CLI to hash files or folders using `md5`, `sha1`, `sha256`, or `blake2b`, with pretty output. Includes CI, tests, and MIT license.
+A tiny Pthon CLI to hash files or folders using `md5`, `sha1`, `sha256`, or `blake2b`, with pretty output. Includes CI, tests, and MIT license.
 
 ## Install
 ```bash
