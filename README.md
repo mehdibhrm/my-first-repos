@@ -7,7 +7,7 @@ its new start
 ├─ pyproject.toml
 ├─ src/
 │  └─ quickhash/
-│     ├─ __init__.py
+│     ├─ __init__.p
 │     └─ cli.py
 ├─ tests/
 │  └─ test_cli.py
