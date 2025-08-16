@@ -6,7 +6,7 @@ its new start
 ├─ .gitignore
 ├─ pyproject.toml
 ├─ src/
-│  └─ quickhash/
+│  └─ quickhash
 │     ├─ __init__.p
 │     └─ cli.py
 ├─ tests/
