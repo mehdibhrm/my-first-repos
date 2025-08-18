@@ -3,7 +3,7 @@ its new start
 📦 quickhash-cli/
 ├─ README.md
 ├─ LICENSE
-├─ .gitignor
+├─ .gitigno
 ├─ pyproject.toml
 ├─ src/
 │  └─ quickhash
