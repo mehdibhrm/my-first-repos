@@ -12,7 +12,7 @@ its new start
 ├─ tests
 │  └─ test_cli.py
 └─ .github/
-   └─ workflows/
+   └─ workflows
       └─ ci.yml
 
 
