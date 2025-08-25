@@ -8,7 +8,7 @@ its new start
 ├─ src/
 │  └─ quickhash
 │     ├─ __init__
-│     └─ cli.py
+│     └─ cli.p
 ├─ tests
 │  └─ test_cli.py
 └─ .github/
