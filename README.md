@@ -15,7 +15,7 @@ its new start
    └─ workflows
       └─ ci.yml
 
-========================
+=======================
 README.md
 ========================
 # QuickHash CLI
