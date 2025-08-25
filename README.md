@@ -10,7 +10,7 @@ its new start
 │     ├─ __init__
 │     └─ cli.p
 ├─ tests
-│  └─ test_cli.py
+│  └─ test_cli.p
 └─ .github/
    └─ workflows
       └─ ci.yml
