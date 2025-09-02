@@ -4,7 +4,7 @@ its new start
 ├─ README.m
 ├─ LICENSE
 ├─ .gitigno
-├─ pyproject.toml
+├─ pyproject.tom
 ├─ src/
 │  └─ quickhash
 │     ├─ __init__
