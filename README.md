@@ -1,7 +1,7 @@
 # my-first-repos
 its new start
 📦 quickhash-cli/
-├─ README.m
+├─ README.
 ├─ LICENSE
 ├─ .gitign
 ├─ pyproject.tom
