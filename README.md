@@ -11,7 +11,7 @@ its new start
 │     └─ cli.p
 ├─ tests
 │  └─ test_cli.p
-└─ .github/
+└─ .github
    └─ workflows
       └─ ci.yml
 
