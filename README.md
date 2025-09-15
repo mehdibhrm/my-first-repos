@@ -6,7 +6,7 @@ its new start
 ├─ .gitign
 ├─ pyproject.tom
 ├─ src/
-│  └─ quickhash
+│  └─ quickhas
 │     ├─ __ini
 │     └─ cli.p
 ├─ test
