@@ -5,7 +5,7 @@ its new start
 ├─ LICENSE
 ├─ .gitign
 ├─ pyproject.tom
-├─ src/
+├─ src
 │  └─ quickhas
 │     ├─ __ini
 │     └─ cli.p
