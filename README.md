@@ -3,7 +3,7 @@ its new start
 📦 quickhash-cli/
 ├─ README.
 ├─ LICENSE
-├─ .gitign
+├─ .gitig
 ├─ pyproject.tom
 ├─ src
 │  └─ quickhas
