@@ -9,7 +9,7 @@ its new start
 │  └─ quickhas
 │     ├─ __ini
 │     └─ cli.
-├─ test
+├─ tes
 │  └─ test_cli.p
 └─ .github
    └─ workflows
