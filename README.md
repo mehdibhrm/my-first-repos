@@ -8,7 +8,7 @@ its new start
 ├─ src
 │  └─ quickhas
 │     ├─ __ini
-│     └─ cli.p
+│     └─ cli.
 ├─ test
 │  └─ test_cli.p
 └─ .github
