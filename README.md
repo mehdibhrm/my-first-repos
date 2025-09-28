@@ -4,7 +4,7 @@ its new start
 ├─ README.
 ├─ LICENSE
 ├─ .gitig
-├─ pyproject.tom
+├─ pyproject.to
 ├─ src
 │  └─ quickhas
 │     ├─ __ini
