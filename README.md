@@ -1,5 +1,5 @@
 # my-first-repos
-its new start
+its new star
 📦 quickhash-cli/
 ├─ README.
 ├─ LICENSE
