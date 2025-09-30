@@ -7,7 +7,7 @@ its new start
 ├─ pyproject.to
 ├─ src
 │  └─ quickha
-│     ├─ __ini
+│     ├─ __in
 │     └─ cli.
 ├─ tes
 │  └─ test_cli.p
