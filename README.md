@@ -6,7 +6,7 @@ its new start
 ├─ .gitig
 ├─ pyproject.to
 ├─ src
-│  └─ quickhas
+│  └─ quickha
 │     ├─ __ini
 │     └─ cli.
 ├─ tes
