@@ -11,7 +11,7 @@ its new star
 │     └─ cli.
 ├─ t
 │  └─ test_cli.p
-└─ .github
+└─ .githu
    └─ workflows
       └─ ci.yml
 
