@@ -9,7 +9,7 @@ its new star
 │  └─ quickha
 │     ├─ __in
 │     └─ cli.
-├─ t
+├─ 
 │  └─ test_cli.p
 └─ .githu
    └─ workflows
