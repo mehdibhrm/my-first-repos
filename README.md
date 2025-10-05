@@ -12,7 +12,7 @@ its new star
 ├─ 
 │  └─ test_cli.p
 └─ .gith
-   └─ workflows
+   └─ workflow
       └─ ci.yml
 
 =======================
