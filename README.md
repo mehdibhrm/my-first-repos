@@ -27,7 +27,7 @@ A tiny Pthon CLI to hash files or folders using `md5`, `sha1`, `sha256`, or `bla
 pip install -e .[dev]
 ```
 
-## Usage
+## Usag
 ```bash
 # Hash a file
 quickhash file path/to/file --alg sha256
