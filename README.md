@@ -7,7 +7,7 @@ its new star
 ├─ pyproject.to
 ├─ src
 │  └─ quickha
-│     ├─ __in
+│     ├─ __i
 │     └─ cli.
 ├─ 
 │  └─ test_cli.p
