@@ -4,7 +4,7 @@ its new star
 ├─ README
 ├─ LICENSE
 ├─ .gitig
-├─ pyproject.t
+├─ pyproject.
 ├─ src
 │  └─ quickha
 │     ├─ __i
