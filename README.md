@@ -16,7 +16,7 @@ its new star
       └─ ci.yml
 
 ======================
-README.md
+README.m
 ========================
 # QuickHash CLI
 
