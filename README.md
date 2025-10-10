@@ -11,7 +11,7 @@ its new star
 │     └─ 
 ├
 │  └─ test_cli.
-└─ .git
+└─ .gi
    └─ workflo
       └─ ci.yml
 
