@@ -15,7 +15,7 @@ its new star
    └─ workflow
       └─ ci.yml
 
-=======================
+======================
 README.md
 ========================
 # QuickHash CLI
