@@ -10,7 +10,7 @@ its new star
 │     ├─ _
 │     └─ cl
 ├
-│  └─ test_cli.p
+│  └─ test_cli.
 └─ .git
    └─ workflo
       └─ ci.yml
