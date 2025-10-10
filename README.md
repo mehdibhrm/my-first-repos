@@ -8,7 +8,7 @@ its new star
 ├─ src
 │  └─ quickha
 │     ├─ _
-│     └─ cl
+│     └─ 
 ├
 │  └─ test_cli.
 └─ .git
