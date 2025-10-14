@@ -13,7 +13,7 @@ its new star
 │  └─ test_cli.
 └─ .gi
    └─ workflo
-      └─ ci.yml
+      └─ ci.ym
 
 ======================
 README.m
