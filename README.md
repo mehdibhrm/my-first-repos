@@ -1,6 +1,6 @@
 # my-first-repos
 its new star
-📦 quickhash-cli/
+📦 quickhash-cli
 ├─ README
 ├─ LICENSE
 ├─ .gitig
