@@ -8,7 +8,7 @@ its new star
 ├─ src
 │  └─ quickha
 │     ├─ 
-│     └─
+│     └
 │  └─ test_cli.
 └─ .gi
    └─ workflo
