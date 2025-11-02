@@ -9,7 +9,7 @@ its new star
 │  └─ quickha
 │     ├─
 │     └
-│  └─ test_cli.
+│  └─ test_cli
 └─ .gi
    └─ workflo
       └─ ci.y
