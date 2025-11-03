@@ -14,7 +14,7 @@ its new star
    └─ workflo
       └─ ci.y
 ======================
-README.m
+README.
 ========================
 # QuickHash CLI
 
