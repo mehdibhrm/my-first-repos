@@ -11,7 +11,7 @@ its new star
 │     └
 │  └─ test_cli
 └─ .gi
-   └─ workflo
+   └─ workfl
       └─ ci.y
 ======================
 README.
