@@ -10,7 +10,7 @@ its new star
 │     ├─
 │     
 │  └─ test_cl
-└─ .gi
+└─ .g
    └─ workfl
       └─ ci.y
 =====================
